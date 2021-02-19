@@ -1,0 +1,28 @@
+body {
+    font-family: verdana;
+    background-color: black;
+    text-align: center;
+}
+h1 {
+font-weight: normal;
+color: white;
+font-size: 50px;
+}
+#download-link {
+    color:aquamarine;
+    font-size: 16px;
+}
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+footer {
+    text-align: right;
+    color:grey;
+}
+#description {
+    color: grey;
+    font-size: 21px;
+    
+}
